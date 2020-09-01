@@ -1,0 +1,28 @@
+top/htop
+cat
+grep
+wc
+ps
+ping
+echo
+/proc
+USERSPACE/KERNELSPACE/FD
+ulimit
+docker
+kill
+> |
+
+
+proc/thread/signal/syscall
+REG/RAM/HDD/NET
+
+~/.bashrc
+source
+
+argc argv
+PATH
+ENV
+$
+chmod
+chown
+>>
