@@ -1,0 +1,1 @@
+/usr/bin/cc -std=gnu11  -rdynamic CMakeFiles/program.dir/sample1.c.o  -o program /usr/local/lib/libpython3.7m.a 
