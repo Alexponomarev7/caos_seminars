@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/aaponomarev/caos/sem3/sample1.c" "/home/aaponomarev/caos/sem3/build/CMakeFiles/program.dir/sample1.c.o"
+  "/Users/aaponomarev/caos/sem3/sample1.c" "/Users/aaponomarev/caos/sem3/build/CMakeFiles/program.dir/sample1.c.o"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
-  "/usr/local/include/python3.7m"
+  "/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/python2.7"
   )
 
 # Targets to which this target links.

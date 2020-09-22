@@ -1,0 +1,12 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/aaponomarev/caos/sem3
+CMake Error at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:164 (message):
+  Could NOT find PythonLibs: Found unsuitable version "2.7.16", but required
+  is at least "3" (found /usr/lib/libpython2.7.dylib)
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:443 (_FPHSA_FAILURE_MESSAGE)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindPythonLibs.cmake:310 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+  CMakeLists.txt:8 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/aaponomarev/caos/sem3/cmake-build-debug/CMakeFiles/CMakeOutput.log".
