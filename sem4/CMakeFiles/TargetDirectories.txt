@@ -1,0 +1,3 @@
+/home/aaponomarev/caos_seminars/sem4/CMakeFiles/rebuild_cache.dir
+/home/aaponomarev/caos_seminars/sem4/CMakeFiles/matrix.dir
+/home/aaponomarev/caos_seminars/sem4/CMakeFiles/edit_cache.dir

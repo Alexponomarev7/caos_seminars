@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -std=gnu11 -fPIC  -shared  -o matrix.so CMakeFiles/matrix.dir/inf01-0.c.o 
